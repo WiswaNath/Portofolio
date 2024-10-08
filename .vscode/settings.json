@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 13,
+    "workbench.iconTheme":"vs-seti",
+    "livePreview.autoRefreshPreview": "On All Changes in Editor",
+    "terminal.integrated.fontSize": 10
+    
+}
